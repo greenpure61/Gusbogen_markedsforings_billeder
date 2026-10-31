@@ -14,6 +14,13 @@ npm i @fontsource/fraunces @fontsource/inter
 python3 render.py
 ```
 
+## Faste regler for ALLE opslag
+
+- App-logoet (`icon.png`) og navnet "Gusbogen" skal altid være med, nederst ved "Link i bio".
+- Kaspers navn må aldrig stå på opslagene, hverken i grafik eller tekst.
+- Ingen kategori-label øverst.
+- Teksten starter med "Reklame |" og har #reklame.
+
 Stil: skovgrøn #1F3A2E, creme #F4EDE1, saunatræ #C98A4B, glød #E8A15C. Skrift: Fraunces (overskrifter) og Inter (brødtekst). Ingen emojis i grafikken. Ingen kategori-label øverst. Logo og navn nederst sammen med "Link i bio".
 
 Færdige billeder lægges i `opslag/<år>-uge-<nr>/` og bruges i Metricool via
