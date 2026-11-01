@@ -16,6 +16,8 @@ python3 render.py
 
 ## Faste regler for ALLE opslag
 
+- TikTok-billeder SKAL være JPG (TikTok afviser PNG). Instagram må gerne være PNG. Videoer er MP4.
+
 - App-logoet (`icon.png`) og navnet "Gusbogen" skal altid være med, nederst ved "Link i bio".
 - Kaspers navn må aldrig stå på opslagene, hverken i grafik eller tekst.
 - Ingen kategori-label øverst.
